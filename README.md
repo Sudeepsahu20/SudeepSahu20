@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudeep (Bunty)
 
-<!--
-**Sudeepsahu20/SudeepSahu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Software Engineer | MERN Stack Developer | React | Data Structure & Algorithm  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Frontend:** React, React Native, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Tools & Others:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 🚀 Featured Projects
+- 🏝️ [Wanderlust Travel App](https://github.com/Sudeepsahu20/wanderlust-travel-app) – A travel booking platform using Express, MongoDB, EJS.   
+- 🛒 [Uneek Store](https://github.com/Sudeepsahu20/uneek-store) – E-commerce store with cart, filters, and payment UI.  
+- 🌦️ [Weather App](https://github.com/Sudeepsahu20/weather-app) – Real-time weather updates with API integration.  
+- 📈 [Trading App](https://github.com/Sudeepsahu20/trading-app) – Zerodha-style trading dashboard with live stock market data.
+  
+
+
+
+
+## 🌱 Currently Learning
+- React 📱    
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/sudeepsahu](https://www.linkedin.com/in/sudeep-sahu-035a8328b/?trk=opento_sprofile_details))  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sudeepsahu2027@gmail.com)  
+
+---
+
+⚡ *"Code, Learn, Build, Repeat"* ⚡

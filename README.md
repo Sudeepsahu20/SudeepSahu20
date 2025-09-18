@@ -26,8 +26,10 @@
 - React 📱    
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/sudeepsahu](https://www.linkedin.com/in/sudeep-sahu-035a8328b/?trk=opento_sprofile_details))  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sudeepsahu2027@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sudeep-sahu-035a8328b/?trk=opento_sprofile_details)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sudeepsahhu2027@gmaul.com)
+  
 
 ---
 

@@ -19,9 +19,6 @@
 - 📈 [Trading App](https://github.com/Sudeepsahu20/trading-app) – Zerodha-style trading dashboard with live stock market data.
   
 
-
-
-
 ## 🌱 Currently Learning
 - React 📱    
 
@@ -30,7 +27,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sudeep-sahu-035a8328b/?trk=opento_sprofile_details)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sudeepsahhu2027@gmaul.com)
   
-
----
 
 ⚡ *"Code, Learn, Build, Repeat"* ⚡

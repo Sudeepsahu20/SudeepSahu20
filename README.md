@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sudeep (Bunty)
 
-💻 Passionate Software Engineer | MERN Stack Developer | React | Data Structure & Algorithm  
+💻 Passionate Software Engineer | MERN Stack Developer | React | Data Structure & Algorithm.
 
 ---
 

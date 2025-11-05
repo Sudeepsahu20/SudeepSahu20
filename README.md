@@ -26,6 +26,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sudeep-sahu-035a8328b/?trk=opento_sprofile_details)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sudeepsahhu2027@gmaul.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/sudeepsahu/)
+
   
 
 ⚡ *"Code, Learn, Build, Repeat"* ⚡
